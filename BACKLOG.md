@@ -36,7 +36,8 @@ Cadastro de receitas e despesas da instituição. Sistema de níveis de acesso. 
 
 ## 🔗 Links úteis
 
-- **Issues (backlog semanal):** [link das issues]
-- **Pull Requests:** [link dos PRs]
-- **Painel do professor:** [link do GitHub Project]
+- **Issues (backlog semanal):** [[link das issues](https://github.com/informaticaseed/tcc-2026-3c-project-morphels-vitor-l-vilarindo/issues/1)]
+- **Pull Requests:** [[link dos PRs](https://github.com/informaticaseed/tcc-2026-3c-project-morphels-vitor-l-vilarindo/pulls)]
+- **Painel do professor:** [[link do GitHub Project - Back_End](https://github.com/vitorvilarindo/Project-Morphels-REACT)]
+- **Painel do professor:** [[link do GitHub Project - Fron_End](https://github.com/vitorvilarindo/Project-Morphels-REACT-FrontEnd)]
 - **Diagrama de arquitetura:** docs/arquitetura.md
