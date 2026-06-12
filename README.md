@@ -7,18 +7,16 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Vitor Lisboa Vilarindo | @vitorvilarindo | 3C |
 
-**Tema:** (escreva aqui em 1 frase)
-**Tecnologia:** Python + Flask + SQLite
+**Tema:** OS PROBLEMAS DA PREDOMINANCIA DA CONTABILIDADE ANALOGICA EM INSTITUIÇÕES DO TERCEIRO SETOR:
+**Tecnologia:** JavaScript + NodeJS + Fastfy + PostgreeSql + React
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+Ele padroniza e agiliza a criação de relatórios de prestação de contas à receita federal. Gerencia níveis de acesso. E gera um dashboard em tempo real com os recursos disponiveis e os gastos.
 
 ---
 
