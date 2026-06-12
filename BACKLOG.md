@@ -8,7 +8,7 @@
 
 ## 🎯 Objetivo do MVP
 
-(Descreva em 2-3 frases o que o MVP precisa entregar)
+Cadastro de receitas e despesas da instituição. Sistema de níveis de acesso. Criação de relatórios
 
 ---
 
@@ -16,12 +16,12 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
-| 3 | (escreva aqui) | Alta | ⏳ A fazer |
-| 4 | (escreva aqui) | Média | ⏳ A fazer |
-| 5 | (escreva aqui) | Média | ⏳ A fazer |
-| 6 | (escreva aqui) | Baixa | ⏳ A fazer |
+| 1 | Cadastro de receitas | Alta | 👌 Feito |
+| 2 | Cadastro de depesas | Alta | 👌 Feito |
+| 3 | Cadastro de usuários | Alta | 👌 Feito |
+| 4 | Gerenciamento de níveis de acesso | Média | 👌 Feito |
+| 5 | Criação de relatórios | Média | ⏳ A fazer |
+| 6 | Filtro de informações | Baixa | ⏳ A fazer |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
@@ -29,8 +29,8 @@
 
 ## 🚫 Fora do escopo (não entra no MVP)
 
-- (o que vocês decidiram não fazer)
-- (o que ficou para depois)
+- Não teve nenhuma funcionalidade que foi cotada para não ser implementada
+- Envio autmático de relatórios pelo email
 
 ---
 
