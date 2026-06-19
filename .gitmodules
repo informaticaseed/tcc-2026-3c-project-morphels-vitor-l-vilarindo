@@ -1,0 +1,6 @@
+[submodule "Project-Morphels-REACT-FrontEnd"]
+	path = Project-Morphels-REACT-FrontEnd
+	url = https://github.com/vitorvilarindo/Project-Morphels-REACT-FrontEnd.git
+[submodule "Project-Morphels-REACT"]
+	path = Project-Morphels-REACT
+	url = https://github.com/vitorvilarindo/Project-Morphels-REACT.git
