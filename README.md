@@ -9,6 +9,7 @@
 |--------------|--------|-------|
 | Vitor Lisboa Vilarindo | @vitorvilarindo | 3C |
 | Rafael Martins Alves | @rafaelalvesmartins | 3B |
+| Rodrigo Martins Alves | @rodrigoalves | 3C |
 
 **Tema:** OS PROBLEMAS DA PREDOMINANCIA DA CONTABILIDADE ANALOGICA EM INSTITUIÇÕES DO TERCEIRO SETOR:
 **Tecnologia:** JavaScript + NodeJS + Fastfy + PostgreeSql + React
