@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — PANC'S
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
@@ -7,17 +7,21 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
+
 | Vitor Lisboa Vilarindo | @vitorvilarindo | 3C |
-| Rafael Martins Alves | @rafaelalvesmartins | 3B |
 
 **Tema:** OS PROBLEMAS DA PREDOMINANCIA DA CONTABILIDADE ANALOGICA EM INSTITUIÇÕES DO TERCEIRO SETOR:
 **Tecnologia:** JavaScript + NodeJS + Fastfy + PostgreeSql + React
+=======
+
 
 ---
 
 ## 🎯 O que o sistema faz
 
+
 Ele padroniza e agiliza a criação de relatórios de prestação de contas à receita federal. Gerencia níveis de acesso. E gera um dashboard em tempo real com os recursos disponiveis e os gastos.
+=======
 
 ---
 
@@ -58,4 +62,6 @@ python src/app.py
 
 # Rodar os testes
 pytest tests/ -v
-```
+``` 
+ 
+ 
