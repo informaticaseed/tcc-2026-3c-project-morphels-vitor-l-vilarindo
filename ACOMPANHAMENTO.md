@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Project Morphels
+**Turma:** 3C
+
 
 ---
 
@@ -11,9 +11,11 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Vitor |  CRUD completo do front end usuários, filias|
+
+Backlog:
+- CRUD completo do front end usuários, filias, setores e gerenciamentos de roles de acessos
+- Relatório do TCC completo
 
 ### Verificação em 08/08
 
