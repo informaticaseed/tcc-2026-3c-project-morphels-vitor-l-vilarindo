@@ -57,9 +57,7 @@ Backlog:
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Vitor |  Arrumar o dashboard, professore verificar com a Thelia sobre as imagens na parte escrita|
 
 ### Verificação em 05/09
 
